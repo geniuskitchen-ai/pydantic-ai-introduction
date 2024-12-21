@@ -1,2 +1,3 @@
-# pydantic-introduction
-Pydantic AI Examples
+# Pydantic AI Agent Framework
+
+Sample code with examples for beginners
